@@ -1,9 +1,25 @@
-﻿# Step_semester_3
+# Step_semester_3
 
-Semester 3 — Version Control & Daily Workflow Standard
+Semester 3 - Version Control & Daily Workflow Standard
 
 **Student Name:** Hemanth  
 **Registration Number:** RA2511026011095  
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Week 3 / Session 3 Class Problems on Arrays and Logic Building (TwoSum, BestTimeToBuyAndSellStock, ContainsDuplicate, MergeTwoSortedArrays, RotateArray).
+- Completed Week 3 / Session 3 Assignment Problems on Arrays and Logic Building (ProductOfArrayExceptSelf, MaximumSubarray, ThreeSum, SubarraySumEqualsK, FindMinimumInRotatedSortedArray).
+- Verified compilation, test outputs, and algorithm time/space complexities for all 10 Session 3 programs.
+- Pushed branch feature/session_3 to remote.
+
+**Next Session Plan:**
+- Work on Week 4 / Session 4 problems.
+
+**Issues Faced:**
+- None
 
 ---
 
