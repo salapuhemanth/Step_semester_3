@@ -26,6 +26,22 @@ Semester 3 - Version Control & Daily Workflow Standard
 ## Date: 19-09-2026
 
 **Today's Work:**
+- Completed Week 4 / Session 4 Class Problems on OOP, Classes, and Objects (PlacementRecord, MessWallet, Course, IdCard, Student).
+- Completed Week 4 / Session 4 Assignment Problems on OOP, Classes, and Objects (BookInventory, PayrollAccount, Employee, HallTicket, CompanyEmployee).
+- Verified compilation, test outputs, constructor chaining via this(...), and reference equality for all 10 Session 4 programs.
+- Pushed branch feature/session_4 to remote.
+
+**Next Session Plan:**
+- Work on Week 5 / Session 5 problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
 - Completed Week 3 / Session 3 Class Problems on Arrays and Logic Building (TwoSum, BestTimeToBuyAndSellStock, ContainsDuplicate, MergeTwoSortedArrays, RotateArray).
 - Completed Week 3 / Session 3 Assignment Problems on Arrays and Logic Building (ProductOfArrayExceptSelf, MaximumSubarray, ThreeSum, SubarraySumEqualsK, FindMinimumInRotatedSortedArray).
 - Verified compilation, test outputs, and algorithm time/space complexities for all 10 Session 3 programs.
