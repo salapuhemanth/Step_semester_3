@@ -10,6 +10,22 @@ Semester 3 - Version Control & Daily Workflow Standard
 ## Date: 19-09-2026
 
 **Today's Work:**
+- Completed Week 5 / Session 5 Class Problems on Arrays, 2D Arrays, and OOP (HackathonScoreCurveBooster, DuplicateTeamNameFinder, Top3PodiumFinder, HackathonSeatingGridOptimizer, PlacementDriveShortlistingRankingEngine).
+- Completed Week 5 / Session 5 Assignment Problems on Arrays, 2D Arrays, and OOP (FantasyTeamScoreMultiplier, DuplicatePlayerPickChecker, TopPerformerTracker, MatchDayGridAnalyzer, FantasyLeagueAutoDraftRankingEngine).
+- Verified compilation, test outputs, in-place modifications, and object ranking with Comparable for all 10 Session 5 programs.
+- Pushed branch feature/session_5 to remote.
+
+**Next Session Plan:**
+- Continue with subsequent course modules and placement problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
 - Completed Week 3 / Session 3 Class Problems on Arrays and Logic Building (TwoSum, BestTimeToBuyAndSellStock, ContainsDuplicate, MergeTwoSortedArrays, RotateArray).
 - Completed Week 3 / Session 3 Assignment Problems on Arrays and Logic Building (ProductOfArrayExceptSelf, MaximumSubarray, ThreeSum, SubarraySumEqualsK, FindMinimumInRotatedSortedArray).
 - Verified compilation, test outputs, and algorithm time/space complexities for all 10 Session 3 programs.
