@@ -7,6 +7,22 @@ Semester 3 - Version Control & Daily Workflow Standard
 
 ---
 
+## Date: 25-09-2026
+
+**Today's Work:**
+- Completed Week 7 / Session 7 Class Problems on Encapsulation and Access Control (PiggyBank, Scorecard, NameTag, Locker, AttendanceSheet).
+- Completed Week 7 / Session 7 Assignment Problems on Encapsulation and Access Control (Character, Playlist, PasswordChecker, TrafficLight, Cart).
+- Verified compilation, test outputs, immutability, data hiding, and defensive copying for all 10 Session 7 programs.
+- Pushed branch feature/session_7 to remote.
+
+**Next Session Plan:**
+- Continue with subsequent course modules and practice problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 19-09-2026
 
 **Today's Work:**
