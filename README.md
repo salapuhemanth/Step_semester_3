@@ -7,6 +7,22 @@ Semester 3 - Version Control & Daily Workflow Standard
 
 ---
 
+## Date: 10-10-2026
+
+**Today's Work:**
+- Completed Week 8 / Session 8 Class Problems on Polymorphism and Dynamic Dispatch (PaymentFeeCalculator, LibraryDueDateCalculator, DeliveryFeeCalculator, ExaminationQuestionGrader, TransportFareCalculator).
+- Completed Week 8 / Session 8 Assignment Problems on Polymorphism and Dynamic Dispatch (CanteenBillingCounter, CampusParkingChargeCalculator, HostelElectricityBill, FestivalBonusCalculator, StreamingPlanRenewalReminder).
+- Verified compilation, test outputs, polymorphic method overriding, and uniform collection iteration without explicit type checking for all 10 Session 8 programs.
+- Pushed branch feature/session_8 to remote.
+
+**Next Session Plan:**
+- Continue with subsequent course modules and practice problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 25-09-2026
 
 **Today's Work:**
