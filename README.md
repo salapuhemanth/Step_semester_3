@@ -10,6 +10,22 @@ Semester 3 - Version Control & Daily Workflow Standard
 ## Date: 10-10-2026
 
 **Today's Work:**
+- Completed Week 9 / Session 9 Class Problems on Abstraction and Abstract Classes (GardenPlotAreaReport, WeeklyStaffPay, LibraryLateFineCounter, ElectricityConnectionBilling, TravelBookingCommonFee).
+- Completed Week 9 / Session 9 Assignment Problems on Abstraction and Interfaces (MovieTicketCounter, ParcelShippingDesk, CollegeFeeCounter, CityCabFareMeter, HomeApplianceEnergyReport).
+- Verified compilation, test outputs, template methods, and capability interfaces without explicit type checking for all 10 Session 9 programs.
+- Pushed branch feature/session_9 to remote.
+
+**Next Session Plan:**
+- Continue with subsequent course modules and placement problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 10-10-2026
+
+**Today's Work:**
 - Completed Week 8 / Session 8 Class Problems on Polymorphism and Dynamic Dispatch (PaymentFeeCalculator, LibraryDueDateCalculator, DeliveryFeeCalculator, ExaminationQuestionGrader, TransportFareCalculator).
 - Completed Week 8 / Session 8 Assignment Problems on Polymorphism and Dynamic Dispatch (CanteenBillingCounter, CampusParkingChargeCalculator, HostelElectricityBill, FestivalBonusCalculator, StreamingPlanRenewalReminder).
 - Verified compilation, test outputs, polymorphic method overriding, and uniform collection iteration without explicit type checking for all 10 Session 8 programs.
